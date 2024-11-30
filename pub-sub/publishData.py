@@ -8,7 +8,7 @@ from BatteryDataSensorApi import generate_correlated_ev_data
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=r"C:\\Users\\PS001028870\Documents\\Python Course\battery-project\battery-project-435805-c2b0ec6d08b9.json"
 
 
-PROJECT_ID="battery-project-435805"
+PROJECT_ID="YOUR_PROJECT_ID"
 TOPIC="ev-battery-topic"
 
 
